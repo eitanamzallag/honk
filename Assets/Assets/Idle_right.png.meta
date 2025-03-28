@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 110e069940ff09e4bb28fb26ee09ed11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5382167845632293389
+    second: Idle_right_0
+  - first:
+      213: -3140107065745314129
+    second: Idle_right_1
+  - first:
+      213: -5368221088015237830
+    second: Idle_right_2
+  - first:
+      213: -4610346427586770446
+    second: Idle_right_3
+  - first:
+      213: 5110573335169189742
+    second: Idle_right_4
+  - first:
+      213: -7623242192140479798
+    second: Idle_right_5
+  - first:
+      213: -2096311967176429828
+    second: Idle_right_6
+  - first:
+      213: 2167299065140489834
+    second: Idle_right_7
+  - first:
+      213: -1087128595077810193
+    second: Idle_right_8
+  - first:
+      213: 7965508070157401435
+    second: Idle_right_9
+  - first:
+      213: 2508563072842643216
+    second: Idle_right_10
+  - first:
+      213: -8977852245326505754
+    second: Idle_right_11
+  - first:
+      213: 8859494761896416532
+    second: Idle_right_12
+  - first:
+      213: 323466229292189608
+    second: Idle_right_13
+  - first:
+      213: 6597990449443823394
+    second: Idle_right_14
+  - first:
+      213: -1598660430444636225
+    second: Idle_right_15
+  - first:
+      213: 1947462305087289184
+    second: Idle_right_16
+  - first:
+      213: -7923450558228247569
+    second: Idle_right_17
+  - first:
+      213: -1546772249391751153
+    second: Idle_right_18
+  - first:
+      213: -4826825326264988595
+    second: Idle_right_19
+  - first:
+      213: 2805448966662679838
+    second: Idle_right_20
+  - first:
+      213: -4924219466000690165
+    second: Idle_right_21
+  - first:
+      213: 5579907483118960723
+    second: Idle_right_22
+  - first:
+      213: -7857360145461231244
+    second: Idle_right_23
+  - first:
+      213: 4365389517435521504
+    second: Idle_right_24
+  - first:
+      213: 2788400600467642607
+    second: Idle_right_25
+  - first:
+      213: 6063083035175929716
+    second: Idle_right_26
+  - first:
+      213: 8169810470290701652
+    second: Idle_right_27
+  - first:
+      213: 2748612734876612483
+    second: Idle_right_28
+  - first:
+      213: -6036666561151780223
+    second: Idle_right_29
+  - first:
+      213: -5205187907888965907
+    second: Idle_right_30
+  - first:
+      213: -1234277473105435455
+    second: Idle_right_31
+  - first:
+      213: 3409650196228039437
+    second: Idle_right_32
+  - first:
+      213: 7328115897031702119
+    second: Idle_right_33
+  - first:
+      213: 3065390711254294812
+    second: Idle_right_34
+  - first:
+      213: -2690386958315811003
+    second: Idle_right_35
+  - first:
+      213: -2137727437769290205
+    second: Idle_right_36
+  - first:
+      213: -3826139223808592148
+    second: Idle_right_37
+  - first:
+      213: -906674811736396230
+    second: Idle_right_38
+  - first:
+      213: 2685886864427310966
+    second: Idle_right_39
+  - first:
+      213: 1466812380036280151
+    second: Idle_right_40
+  - first:
+      213: 7473961642146646166
+    second: Idle_right_41
+  - first:
+      213: 9081009101940813207
+    second: Idle_right_42
+  - first:
+      213: 2281188319316191668
+    second: Idle_right_43
+  - first:
+      213: 4580119115437768826
+    second: Idle_right_44
+  - first:
+      213: -1703106340662398302
+    second: Idle_right_45
+  - first:
+      213: -1144273339262105597
+    second: Idle_right_46
+  - first:
+      213: -7802915811629944433
+    second: Idle_right_47
+  - first:
+      213: 9079132106285856861
+    second: Idle_right_48
+  - first:
+      213: 7315777091176179117
+    second: Idle_right_49
+  - first:
+      213: 5248706001228523003
+    second: Idle_right_50
+  - first:
+      213: 2265584928410650423
+    second: Idle_right_51
+  - first:
+      213: 2882829495679601321
+    second: Idle_right_52
+  - first:
+      213: 6062818633396646489
+    second: Idle_right_53
+  - first:
+      213: 2551356023821597905
+    second: Idle_right_54
+  - first:
+      213: 5689888330499389996
+    second: Idle_right_55
+  - first:
+      213: -5354587608655385327
+    second: Idle_right_56
+  - first:
+      213: -4191336498989493548
+    second: Idle_right_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c264225df43ed408080fb2b07f7bfa
+      internalID: -2039121064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_right_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e231689e6bf57e243a88e20cdd0113da
+      internalID: -69206342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_right_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c293d85c5fad71444964b3a83e82b164
+      internalID: -1174178866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_right_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1040b7d1b51fa584584e58af50deb1a3
+      internalID: -1942306534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_right_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ddc2b2cd0a57543afec37d18f53966
+      internalID: 752375493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_right_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccc26c12b3b6bd408ce3c984fd59da4
+      internalID: 1388479011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c42011d27dc177246b7d63e270ad0a71
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle_right_0: -2039121064
+      Idle_right_1: -69206342
+      Idle_right_2: -1174178866
+      Idle_right_3: -1942306534
+      Idle_right_4: 752375493
+      Idle_right_5: 1388479011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
